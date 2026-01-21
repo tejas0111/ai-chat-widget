@@ -32,7 +32,7 @@ Designed to be **drop-in** and **safe to embed on any website** without CSS or J
 ```txt
 /ai-chat-widget
 ├── dist/
-│   ├── ai-widget.js        # Ready embeddable file (USE THIS)
+│   ├── ai.js        # Ready embeddable file (USE THIS)
 │   └── index.html          # Public demo page
 │
 ├── src/
