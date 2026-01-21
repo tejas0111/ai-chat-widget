@@ -18,7 +18,7 @@ Designed to be **drop-in** and **safe to embed on any website** without CSS or J
 ## 📸 Demo Preview
 
 **Live Demo:**  
-👉 https://floating-ai.netlify.app/dist
+👉 https://floating-ai.netlify.app/
 
 **Screenshot:**  
 ![App Screenshot](https://raw.githubusercontent.com/tejas0111/ai-chat-widget/main/src/assets/screenshot/ss1.png)
